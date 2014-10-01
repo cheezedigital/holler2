@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+}
+.section1 {
+  text-align: center;
+}
+.address {
+  text-align: center;
+  font-size: 16px;
+}
+.links {
+  text-align: center;
+}
+body {
+  background-color: #313141;
+  color: #a6fa62;
+}
