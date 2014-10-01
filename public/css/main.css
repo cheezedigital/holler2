@@ -1,5 +1,6 @@
 .container {
   width: 100%;
+  text-align: center;
 }
 .section1 {
   text-align: center;
@@ -26,4 +27,8 @@ ul {
 
 .tool {
   text-align: center;
+}
+
+.tool1 {
+  font-size: 16px;
 }
