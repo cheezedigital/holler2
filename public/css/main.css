@@ -15,3 +15,15 @@ body {
   background-color: #313141;
   color: #a6fa62;
 }
+
+.pic1 img{
+  border-radius: 50%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.tool {
+  text-align: center;
+}
