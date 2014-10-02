@@ -36,7 +36,8 @@ ul {
 .tools > ul {
   overflow: auto;
   margin: 0 auto;
-  padding-left: 575px;
+  /*padding-left: 575px;*/
+  display: table;
 }
 
 .container {
